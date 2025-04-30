@@ -1,6 +1,7 @@
 # 💰 Personal Finance Visualizer
 
 A simple and responsive web application to help users track and visualize personal finances efficiently.
+🌐 **Live Demo:** [https://finance-visualizer-gules.vercel.app/](https://finance-visualizer-gules.vercel.app/)
 
 ---
 
